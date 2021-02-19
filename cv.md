@@ -63,3 +63,5 @@ I graduated from BSTTU in 2013, got a bachelor degree as a psychologyst and an E
 * html academy
 * sololearn 
 * and of course geekbrains :smirk:
+
+My English level is Advanced I suppose since that's my major. I can communicate with people whether it's chatting or talking person-to-person, also can discuss a wide range of topics, watch movies, series and other videos without subs. No sertificates though. I can understant Indian English accent and differentiate south and north Indian English accents.
