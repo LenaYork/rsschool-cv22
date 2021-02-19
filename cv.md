@@ -16,3 +16,7 @@ Speaking about skills, I have been using:
 mostly with such libraries as bootstrap and jQuery. 
 I have used ReactJS for making SPA.
 I also have basic knowledge of PHP and SQL.
+
+The VCS I've been using is Git.
+The CMS I've been using is Wordpress.
+
