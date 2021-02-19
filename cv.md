@@ -20,3 +20,10 @@ I also have basic knowledge of PHP and SQL.
 The VCS I've been using is Git.
 The CMS I've been using is Wordpress.
 
+Here you can have a look at my code example:
+[Horoscope] (https://github.com/LenaYork/horoscope)
+[Learn English words] (https://github.com/LenaYork/Cubs)
+[Clock] (https://github.com/LenaYork/Clock)
+[Teacher Webpage] (https://github.com/LenaYork/English-Teacher)
+[Caller ID] (https://github.com/LenaYork/Caller-ID)
+
