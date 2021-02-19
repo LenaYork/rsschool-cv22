@@ -46,3 +46,14 @@ Here is a short code example:
     signList.appendChild(newOption);
     });
 ```
+
+My coding experience includes:
+1. Adding markup and script to websites 
+2. Creating online-shops using Wordpress, JavaScript and PHP
+3. Making simple games and webpages as a part of my self-education.
+
+Here are some examples (the code of each one can be seen in code example part above):
+[Horoscope game](https://lenayork.github.io/horoscope/)
+[Learn English words game](https://lenayork.github.io/Cubs/)
+[Caller ID](https://lenayork.github.io/Caller-ID/)
+[Clock](https://lenayork.github.io/Clock/)
