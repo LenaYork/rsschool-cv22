@@ -57,3 +57,9 @@ Here are some examples (the code of each one can be seen in code example part ab
 [Learn English words game](https://lenayork.github.io/Cubs/)
 [Caller ID](https://lenayork.github.io/Caller-ID/)
 [Clock](https://lenayork.github.io/Clock/)
+
+I graduated from BSTTU in 2013, got a bachelor degree as a psychologyst and an English teacher. I've been learning programming online:
+* udemy courses ("Complete Web Developer Course" is still in process)
+* html academy
+* sololearn 
+* and of course geekbrains :smirk:
