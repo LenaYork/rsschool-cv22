@@ -45,10 +45,10 @@ Here is a short code example:
     form.appendChild(signList);
 
     signs.map( (elem, i) => {
-    let newOption = document.createElement('option');
-    newOption.setAttribute('value', elem);
-    newOption.innerText = signDates[i];
-    signList.appendChild(newOption);
+        let newOption = document.createElement('option');
+        newOption.setAttribute('value', elem);
+        newOption.innerText = signDates[i];
+        signList.appendChild(newOption);
     });
 ```
 
