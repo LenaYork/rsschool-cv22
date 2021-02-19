@@ -11,9 +11,9 @@ Having been teaching English for many years I've realized how important the lang
 ### __Skills__
 Speaking about skills, I have been using:
 
-+  javascript [x]
-+  html [x]
-+  css [x]
++ [x] javascript 
++ [x] html 
++ [x] css 
 
 mostly with such libraries as bootstrap and jQuery. 
 I have used *ReactJS* for making SPA.
