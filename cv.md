@@ -27,3 +27,22 @@ Here you can have a look at my code example:
 [Teacher Webpage] (https://github.com/LenaYork/English-Teacher)
 [Caller ID] (https://github.com/LenaYork/Caller-ID)
 
+Here is a short code example:
+```javascript
+    rootDiv.appendChild(explanation);
+
+    const form = document.createElement('form');
+    form.setAttribute('method', 'post');
+    rootDiv.appendChild(form);
+
+    let signList = document.createElement('select');
+    signList.setAttribute('id', 'select');
+    form.appendChild(signList);
+
+    signs.map( (elem, i) => {
+    let newOption = document.createElement('option');
+    newOption.setAttribute('value', elem);
+    newOption.innerText = signDates[i];
+    signList.appendChild(newOption);
+    });
+```
