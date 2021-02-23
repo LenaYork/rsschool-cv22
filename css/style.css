@@ -1,13 +1,32 @@
+@media all and (max-width: 950px) {
+    .code-example-pic {
+        height: 150px;
+    }
+
+    .container {
+        margin: 2px 2px;  
+    }
+}
+
+@media all and (min-width: 950px) {
+    .code-example-pic {
+        height: 300px;
+    }
+
+    .container {
+        margin: 15px auto;  
+    }
+}
+
 body {
     background-color: #84b6f7;
 }
 
 .container {
-    
-    margin: 30px 150px;
+    max-width: 800px;
     padding: 15px 30px;
-    border-radius: 10px;
     background-color:  #2f2ff0;
+    border-radius: 10px;
     box-shadow: 10px 5px 5px #0d0daf;
 }
 
@@ -21,34 +40,26 @@ h1 {
 
 h3 {
     padding: 5px 15px;
-    border-radius: 10px;
-
     background-color: #84b6f7;
+    border-radius: 10px;
 }
 
 p {
     text-align: justify;
 }
 
-
 a {
-    text-decoration: none;
     color: #9999fa;
-    
+    text-decoration: none;
 }
 
 a:hover {
-  
-    font-weight: bold;
     color:#8686ee;
+    font-weight: bold;
 }
 
 a:visited {
     color:#8686ee;
-}
-
-.code-example-pic {
-    height: 300px;
 }
 
 .avatar-pic {
@@ -65,32 +76,30 @@ a:visited {
 }
 
 .bio p {
-    margin-right: 5px;
+    margin-right: 25px;
 }
-
 
 ul {
     list-style: none;
-  }
+}
 
 .skills ul li:before {
     content: '✓ ';
-  }
+}
 
 .code-example ul li:before {
     content: '~ ';
-  }
+}
 
 .experience ul li {
     list-style-type: circle;
-  }
+}
 
-  p {
-      padding: 0 5px;
-  }
+p {
+    padding: 0 5px;
+}
 
-  .footer {
-      display: flex;
-      justify-content: center;
-  }
-
+.footer {
+    display: flex;
+    justify-content: center;
+}
