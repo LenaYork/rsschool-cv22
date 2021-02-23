@@ -4,7 +4,7 @@ body {
 
 .container {
     
-    margin: 30px 80px;
+    margin: 30px 150px;
     padding: 15px 30px;
     border-radius: 10px;
     background-color:  #2f2ff0;
@@ -49,6 +49,23 @@ a:visited {
 .code-example-pic {
     height: 300px;
 }
+
+.avatar-pic {
+    height: 200px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+
+.bio {
+    display: flex;
+    justify-content: center;
+    margin: 0 5px;
+}
+
+.bio p {
+    margin-right: 5px;
+}
+
 
 ul {
     list-style: none;
