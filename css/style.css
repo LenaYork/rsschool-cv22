@@ -1,0 +1,49 @@
+body {
+    background-color: #84b6f7;
+}
+
+.container {
+    
+    margin: 30px 80px;
+    padding: 15px 30px;
+    border-radius: 10px;
+
+    background-color:  #2f2ff0;
+}
+
+h1 {
+    color: burlywood;
+}
+
+ h3 {
+    color: #4d4444;
+}
+
+h3 {
+    padding: 5px 15px;
+    border-radius: 10px;
+
+    background-color: #84b6f7;
+}
+
+p {
+    text-align: justify;
+}
+
+
+a {
+    text-decoration: none;
+    color: #9999fa;
+    
+}
+
+a:hover {
+  
+    font-weight: bold;
+    color:#8686ee;
+}
+
+a:visited {
+    color:#8686ee;
+}
+
