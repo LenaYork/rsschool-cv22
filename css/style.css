@@ -50,3 +50,19 @@ a:visited {
 .code-example-pic {
     height: 300px;
 }
+
+ul {
+    list-style: none;
+  }
+
+.skills ul li:before {
+    content: '✓ ';
+  }
+
+.code-example ul li:before {
+    content: '~ ';
+  }
+
+.experience ul li {
+    list-style-type: circle;
+  }
