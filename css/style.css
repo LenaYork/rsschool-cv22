@@ -69,6 +69,19 @@ a:visited {
     box-shadow: 10px 5px 5px #0d0daf;
 }
 
+.contacts li {
+    color: #1b1b04;
+}
+
+.contacts a {
+    color:   #7171eb;
+}
+
+.contact-item a:hover {
+    font-weight: bold;
+    color: #8686ee;
+}
+
 .bio {
     display: flex;
     justify-content: center;
@@ -81,6 +94,10 @@ a:visited {
 
 ul {
     list-style: none;
+}
+
+.contacts ul {
+    list-style: circle; 
 }
 
 .skills ul li:before {
