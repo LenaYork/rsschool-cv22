@@ -59,10 +59,6 @@ body {
     justify-content: space-between;
 }
 
-/* .menu-container {
-    position: relative;
-} */
-
 .menu-container {
     width: 150px;
 }
@@ -95,10 +91,6 @@ body {
     background-color:  #2f2ff0;
     border-radius: 10px;
     box-shadow: 10px 5px 5px #0d0daf;
-}
-
-.main {
-    /* padding-top: 70px; */
 }
 
 h1 {
@@ -135,7 +127,6 @@ a:visited {
 
 .avatar-pic {
     height: 200px;
-    /* margin-top:10px; */
     border-radius: 10px;
     box-shadow: 10px 5px 5px #0d0daf;
 }
@@ -148,6 +139,8 @@ a:visited {
 
 .bio p {
     margin-right: 25px;
+    line-height: 1.3;
+    font-size: 1.1em;
 }
 
 ul {
@@ -240,20 +233,6 @@ h3 {
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
 }
-
-/* .menu-nav {
-    display: none;
-} */
-
-/* .menu-icon:hover ~ .menu-nav{
-    display: block;
-    transition: 1s;
-} */
-
-/* a:hover {
-    color:#0d0daf;
-    text-shadow: 10px 5px 5px #cfcff1 ;
-} */
 
 a:hover {
     text-shadow: 2px 2px 3px #020136;
